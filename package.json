@@ -1,0 +1,17 @@
+{
+  "name": "reach",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@types/jsdom": "^21.1.7",
+    "jsdom": "^26.0.0",
+    "xerus": "github:phillip-england/xerus"
+  }
+}
