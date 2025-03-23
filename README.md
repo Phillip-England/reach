@@ -11,5 +11,3 @@ Reach is all about banking on *the future*. With the rising adoption of view tra
 Write the HTML templates and let reach generate your web components.
 
 Dead simple.
-
-# reach
